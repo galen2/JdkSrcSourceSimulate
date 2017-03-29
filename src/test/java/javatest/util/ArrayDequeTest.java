@@ -1,15 +1,13 @@
 package javatest.util;
 
 import java.util.ArrayDeque;
-import java.util.PriorityQueue;
 
 import org.junit.Test;
 @SuppressWarnings ( { "unchecked", "rawtypes" } )
 /**
  *  1.队列先进先出，栈先进后出。 
- *  2、用ArrayDeque模拟栈和队列实现
- * @author ma
- *
+ *  2、实现双队列和栈功能
+ *  3、实现队列功能
  */
 public class ArrayDequeTest {
 	int initialCapacity = 8;

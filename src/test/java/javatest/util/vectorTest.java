@@ -1,5 +1,6 @@
 package javatest.util;
 
+import java.util.Collections;
 import java.util.Stack;
 import java.util.Vector;
 
